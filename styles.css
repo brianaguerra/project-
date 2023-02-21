@@ -1,0 +1,20 @@
+/* The code from lines 2-4 puts the title of the website in the center */
+.title{
+    text-align:center;
+    font-family: Futara;
+}
+.container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+  
+/* The code from lines 6-10 adds the pink background-color and white text color for each section heading. If you want to change the color of the section headers, change this code!*/
+ 
+div {
+    color:black;
+    text-align: center;
+    background-color: pink;
+    border:5px black solid;
+    
+}
